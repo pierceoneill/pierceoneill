@@ -24,7 +24,7 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 </p>
 
-<h3 align="left">Frameworks <img src="https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30"></h3>
+<h3 align="left">Frameworks <img src="https://media.giphy.com/media/QLREiT3pNpO2VPbGjj/giphy.gif" width="30"></h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>

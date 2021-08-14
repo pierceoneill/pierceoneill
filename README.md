@@ -20,7 +20,7 @@
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
-   <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js%20-7026BA.svg?logo=gatsby&logoColor=white"></img>
+   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23404d59.svg?logo=react&logoColor=white"></img>
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
@@ -40,8 +40,8 @@
 
 <h3 align="left">Familarity</h3>
 <p>
-   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
-   <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2315A6C4.svg?logo=dart&logoColor=white"></img>
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
+   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></img>
 </p>
 
 
@@ -73,9 +73,6 @@
 
 <h3 align="left">Software and tools</h3>
 <p>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%2320232a.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>

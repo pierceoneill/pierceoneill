@@ -18,14 +18,13 @@
 <h3 align="left">Frontend Stack</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
+   <img alt="VueJS" src="hhttps://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
    <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js%20-7026BA.svg?logo=gatsby&logoColor=white"></img>
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23404d59.svg?logo=react&logoColor=white"></img>
    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
    <img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></img>
-   <img alt="Jest" src="https://img.shields.io/badge/Jest-916F79.svg?logo=jest&logoColor=white"></img> 
 </p>
 
 <h3 align="left">Backend Stack</h3>

@@ -149,10 +149,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+<img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+<img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
 <a href='https://twitter.com/natterstefan'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />

@@ -69,7 +69,7 @@
 
 <h3 align="left">Software and tools</h3>
 <p>
-   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username={pierceoneill}&theme=blue-green"></a>
+   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&theme=blue-green"></a>
 </p>
 
  ![Snake animation](https://svgshare.com/i/_CU.svg)

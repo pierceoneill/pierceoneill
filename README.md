@@ -73,7 +73,7 @@
 
 
 
-<h3 align="left">Operating Systems <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> </h3>
+<h3 align="left">Operating Systems <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="30"> </h3>
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>

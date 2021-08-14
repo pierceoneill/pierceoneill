@@ -67,6 +67,9 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
-<p><a src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"></a></p>
+<h3 align="left">Software and tools</h3>
+<p>
+   <a href="#"><img alt="stats" ="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"></a>
+</p>
 
  ![Snake animation](https://svgshare.com/i/_CU.svg)

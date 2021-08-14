@@ -46,7 +46,7 @@
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></img>
 </p>
 
-<h3 align="left">Databases <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="30"></h3>
+<h2 align="left">Databases <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="30"></h2>
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -56,7 +56,7 @@
    
 </p>
 
-<h3 align="left">Cloud  <img src="https://media.giphy.com/media/YlezA6biPoVSwwPXZa/giphy.gif" width="30"></h3>
+<h2 align="left">Cloud  <img src="https://media.giphy.com/media/YlezA6biPoVSwwPXZa/giphy.gif" width="30"></h2>
 <p>
    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
@@ -65,7 +65,7 @@
     <a href="#"><img alt="Replit" src ="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 </p>
 
-<h3 align="left">Familarity</h3>
+<h2 align="left">Familarity</h2>
 <p>
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></img>
@@ -74,7 +74,7 @@
 
 
 
-<h3 align="left">Operating Systems <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="30"> </h3>
+<h2 align="left">Operating Systems <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="30"> </h2>
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
@@ -84,7 +84,7 @@
    
 </p>
 
-<h3 align="left">IDE's <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h3>
+<h2 align="left">IDE's <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h2>
 <p>
     <a href="#"><img alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
@@ -93,7 +93,7 @@
     <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 </p>
 
-<h3 align="left">Stats </h3>
+<h2 align="left">Stats </h2>
 <p>
    <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&theme=blue-green"></a>
 </p>

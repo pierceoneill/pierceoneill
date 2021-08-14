@@ -19,7 +19,7 @@
 <p>
    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
+   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
    <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js%20-7026BA.svg?logo=gatsby&logoColor=white"></img>
    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23404d59.svg?logo=react&logoColor=white"></img>
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -30,10 +30,10 @@
 <h3 align="left">Backend Stack</h3>
 <p>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
-   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></img>
+   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img>
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-F71490.svg?logo=graphql&logoColor=white"></img>
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-   <img alt="Jest" src="https://img.shields.io/badge/Jest-916F79.svg?logo=jest&logoColor=white"></img>
+   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
    <img alt="TravisCI" src="https://img.shields.io/badge/TravisCI-f5f1ba.svg?logo=travis&logoColor=white"></img>
 </p>

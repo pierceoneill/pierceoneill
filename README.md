@@ -17,7 +17,7 @@
 
 <h3 align="left">Frontend Stack</h3>
 <p>
-   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
+   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
    <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js%20-7026BA.svg?logo=gatsby&logoColor=white"></img>

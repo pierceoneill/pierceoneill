@@ -230,7 +230,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 
 
 <a href="https://github.com/pierceoneill/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pierce's github stats" />
 </a>
 <a href="https://github.com/pierceoneill/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

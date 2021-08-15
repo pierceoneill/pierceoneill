@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://github.com/pierceoneill/pierceoneill/blob/main/pack.png)](https://pierceoneill.ie)
+[![Pierce's GitHub Banner](https://github.com/pierceoneill/pierceoneill/blob/main/pack.png)](https://pierceoneill.ie)
 
 <h1>Hello Friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>A passionate and researcher software developer from Ireland</h3>
@@ -245,3 +245,5 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

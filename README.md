@@ -1,7 +1,7 @@
 [![Pierce's GitHub Banner](https://github.com/pierceoneill/pierceoneill/blob/main/pack.png)](https://pierceoneill.ie)
 
 <h1>Hello Friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>A passionate and researcher software developer from Ireland</h3>
+<h3>A passionate Full Stack Web Developer from Ireland</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 

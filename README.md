@@ -111,20 +111,6 @@
 </p>
 
 <h2 align="left">Stats </h2>
-<p>
-   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&theme=blue-green"></a>
-</p>
-
- ![Snake animation](https://svgshare.com/i/_CU.svg)
-
-
-
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
 <a href="https://github.com/pierceoneill/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pierce's github stats" />
 </a>
@@ -139,5 +125,17 @@
 </a>
 
 <a href="https://pierceoneill.ie/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+ ![Snake animation](https://svgshare.com/i/_CU.svg)
+
+
+
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+
 <br>
 <a href="https://www.buymeacoffee.com/pierceoneill"><img height="30" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>

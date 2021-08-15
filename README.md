@@ -241,7 +241,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pierceoneill&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/pierceoneill/anuraghazra.github.io">
+<a href="https://github.com/pierceoneill/pierceoneill.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pierceoneill&repo=pierceoneill.github.io&theme=material-palenight" />
 </a>

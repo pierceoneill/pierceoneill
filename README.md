@@ -5,7 +5,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 
-- 🔭 I’m currently working on [RemoteTeam.com](https://www.remoteteam.com/)
+- 🔭 I’m currently working on [Digidude](https://digidude.ie)
 
 - 💬 Ask me about **Frontend Development - Backend Development - Cybersecurity**
 

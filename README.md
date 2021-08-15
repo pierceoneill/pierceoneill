@@ -13,6 +13,9 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19gMiqk14kP1Pg1P3Udz4enFYdJ44grhH/view?usp=sharing)
 
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
 <h2 align="left">Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p>
    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>

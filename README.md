@@ -230,20 +230,20 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 
 
 <a href="https://github.com/pierceoneill/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.pierceoneill.vercel.app/api?username=pierceoneill&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/pierceoneill/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pierceoneill.vercel.app/api/top-langs/?username=pierceoneill&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/pierceoneill/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pierceoneill.vercel.app/api/pin/?username=pierceoneill&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pierceoneill&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/pierceoneill/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pierceoneill.vercel.app/api/pin/?username=pierceoneill&repo=pierceoneill.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pierceoneill&repo=pierceoneill.github.io&theme=material-palenight" />
 </a>
 
 <a href="https://pierceoneill.ie/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pierceoneill&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierceoneill&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

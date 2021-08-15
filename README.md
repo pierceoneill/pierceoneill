@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [RemoteTeam.com](https://www.remoteteam.com/)
 
-- 📝 I regularly write articles on ( Turkish ) [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
-
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development - Backend Development - Cybersecurity**
 
 - 📫 How to reach me **info@pierceoneill.ie**
 

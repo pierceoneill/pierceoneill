@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **info@pierceoneill.ie**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1n966JsA5zvFXgqKfG2WKBp7tDgUBes8k/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14QlHicDdCYl8dulSEv-p5m7nQd2yCiAh/view?usp=sharing)
 
 <br>
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</p>

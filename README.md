@@ -5,9 +5,9 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 
-- 🔭 I’m currently working at [WP Engine](https://https://wpengine.com/)
+- 🔭 I’m currently working at [WP Engine](https://wpengine.com/)
 
-- 💬 Ask me about **Frontend Development - Backend Development - Cybersecurity**
+- 💬 Ask me about **Frontend Development - Backend Development - Cybersecurity - Support**
 
 - 📫 How to reach me **info@pierceoneill.ie**
 
